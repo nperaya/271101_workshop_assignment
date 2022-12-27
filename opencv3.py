@@ -86,7 +86,7 @@ while True:
     
     cv2.imshow("Image", img)
     k =cv2.waitKey(1)
-    if k == ord('q'):
+    if k == ord('v'):
         break
 
     
